@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Faculty Ratings</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+<h1>Faculty Ratings Dashboard</h1>
+
+<div class="table-container">
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Total Ratings</th>
+            <th>Teaching</th>
+            <th>Attendance Flex</th>
+            <th>Supportiveness</th>
+            <th>Marks</th>
+            <th>Overall</th>
+            <th>Courses</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for f in faculty %}
+        <tr>
+            <td>{{ f.faculty_name }}</td>
+            <td>{{ f.total_ratings }}</td>
+            <td>{{ f.avg_teaching }}</td>
+            <td>{{ f.avg_attendance_flex }}</td>
+            <td>{{ f.avg_supportiveness }}</td>
+            <td>{{ f.avg_marks }}</td>
+            <td>{{ f.avg_overall }}</td>
+            <td>
+                {% if f.courses %}
+                    {% for c in f.courses %}
+                        <div class="course">
+                            {{ c.code }} - {{ c.title }}
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    —
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+</div>
+
+</body>
+</html>
