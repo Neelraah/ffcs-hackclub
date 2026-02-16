@@ -1,0 +1,3670 @@
+[
+    {
+        "faculy_id": "FAC1000",
+        "faculy_name": "Dr. Ramesh Kumar",
+        "total_rating": 100,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 2.9,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 3.6,
+        "avg_overall": 3.6,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Vikram Joshi",
+                "submitted_at": "2025-12-24T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Sanya Malhotra",
+                "submitted_at": "2025-02-05T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Aditya Patel",
+                "submitted_at": "2025-12-29T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Aditya Singh",
+                "submitted_at": "2025-03-03T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Aditya Joshi",
+                "submitted_at": "2025-01-21T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Meera Gupta",
+                "submitted_at": "2025-09-11T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1001",
+        "faculy_name": "Prof. Sunita Rao",
+        "total_rating": 126,
+        "avg_teaching": 3.7,
+        "avg_attendance_flex": 3.3,
+        "avg_supportiveness": 4.2,
+        "avg_marks": 3.1,
+        "avg_overall": 3.6,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            },
+            {
+                "code": "CH101",
+                "title": "General Chemistry"
+            }
+        ],
+        "comments": [
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Deepa Iyer",
+                "submitted_at": "2025-05-21T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Anjali Joshi",
+                "submitted_at": "2025-02-08T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Kabir Patel",
+                "submitted_at": "2026-01-02T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Meera Kapoor",
+                "submitted_at": "2025-09-23T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1002",
+        "faculy_name": "Dr. Alan Turing",
+        "total_rating": 189,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 4.2,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 4.1,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "EE101",
+                "title": "Circuit Theory"
+            },
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Rohan Kapoor",
+                "submitted_at": "2025-03-14T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Anjali Reddy",
+                "submitted_at": "2025-06-03T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Sanya Sharma",
+                "submitted_at": "2025-10-11T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Deepa Gupta",
+                "submitted_at": "2025-02-03T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Sanya Reddy",
+                "submitted_at": "2025-07-16T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Ishani Kapoor",
+                "submitted_at": "2025-11-10T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1003",
+        "faculy_name": "Dr. Grace Hopper",
+        "total_rating": 77,
+        "avg_teaching": 4.4,
+        "avg_attendance_flex": 4.9,
+        "avg_supportiveness": 3.9,
+        "avg_marks": 4.0,
+        "avg_overall": 4.3,
+        "courses": [
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Anjali Kapoor",
+                "submitted_at": "2026-01-21T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Ishani Malhotra",
+                "submitted_at": "2025-12-14T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Rohan Malhotra",
+                "submitted_at": "2025-03-02T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Ishani Kapoor",
+                "submitted_at": "2025-08-01T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1004",
+        "faculy_name": "Prof. Marie Curie",
+        "total_rating": 221,
+        "avg_teaching": 3.6,
+        "avg_attendance_flex": 3.9,
+        "avg_supportiveness": 4.2,
+        "avg_marks": 4.0,
+        "avg_overall": 3.9,
+        "courses": [
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            },
+            {
+                "code": "PH202",
+                "title": "Quantum Mechanics"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Arjun Verma",
+                "submitted_at": "2025-10-16T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Sanya Malhotra",
+                "submitted_at": "2025-04-03T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Aditya Iyer",
+                "submitted_at": "2025-07-09T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Vikram Singh",
+                "submitted_at": "2025-12-22T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Deepa Joshi",
+                "submitted_at": "2025-12-06T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Aditya Iyer",
+                "submitted_at": "2025-09-07T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1005",
+        "faculy_name": "Dr. Richard Feynman",
+        "total_rating": 85,
+        "avg_teaching": 3.7,
+        "avg_attendance_flex": 3.9,
+        "avg_supportiveness": 3.2,
+        "avg_marks": 4.4,
+        "avg_overall": 3.8,
+        "courses": [
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            },
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            }
+        ],
+        "comments": [
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Vikram Singh",
+                "submitted_at": "2025-04-18T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Arjun Joshi",
+                "submitted_at": "2025-10-06T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Kabir Gupta",
+                "submitted_at": "2025-10-03T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Vikram Malhotra",
+                "submitted_at": "2025-08-02T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Kabir Verma",
+                "submitted_at": "2025-10-27T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Aditya Singh",
+                "submitted_at": "2025-03-18T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1006",
+        "faculy_name": "Dr. Ada Lovelace",
+        "total_rating": 198,
+        "avg_teaching": 4.7,
+        "avg_attendance_flex": 4.5,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 4.0,
+        "avg_overall": 4.3,
+        "courses": [
+            {
+                "code": "EE101",
+                "title": "Circuit Theory"
+            },
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            }
+        ],
+        "comments": [
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Ishani Sharma",
+                "submitted_at": "2025-05-24T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Vikram Iyer",
+                "submitted_at": "2026-01-15T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Meera Verma",
+                "submitted_at": "2025-02-16T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Sanya Reddy",
+                "submitted_at": "2025-06-16T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Aditya Kapoor",
+                "submitted_at": "2025-11-19T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Rohan Singh",
+                "submitted_at": "2025-01-20T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1007",
+        "faculy_name": "Prof. Nikola Tesla",
+        "total_rating": 67,
+        "avg_teaching": 4.3,
+        "avg_attendance_flex": 3.0,
+        "avg_supportiveness": 3.9,
+        "avg_marks": 4.0,
+        "avg_overall": 3.8,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            },
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Aditya Reddy",
+                "submitted_at": "2025-04-13T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Vikram Sharma",
+                "submitted_at": "2025-10-06T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Vikram Singh",
+                "submitted_at": "2026-01-26T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1008",
+        "faculy_name": "Dr. Homi Bhabha",
+        "total_rating": 243,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 4.8,
+        "avg_supportiveness": 3.1,
+        "avg_marks": 3.0,
+        "avg_overall": 3.7,
+        "courses": [
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Aditya Patel",
+                "submitted_at": "2025-04-23T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Meera Kapoor",
+                "submitted_at": "2025-07-21T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Vikram Patel",
+                "submitted_at": "2025-09-20T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Meera Verma",
+                "submitted_at": "2025-10-24T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1009",
+        "faculy_name": "Dr. C.V. Raman",
+        "total_rating": 137,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 4.5,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 3.7,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Aditya Joshi",
+                "submitted_at": "2025-07-24T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Kabir Sharma",
+                "submitted_at": "2025-01-24T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Vikram Iyer",
+                "submitted_at": "2025-10-05T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1010",
+        "faculy_name": "Prof. Satyendra Nath Bose",
+        "total_rating": 34,
+        "avg_teaching": 4.8,
+        "avg_attendance_flex": 3.2,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 3.8,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Anjali Kapoor",
+                "submitted_at": "2025-04-13T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Deepa Malhotra",
+                "submitted_at": "2025-06-15T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Deepa Singh",
+                "submitted_at": "2025-04-17T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Anjali Joshi",
+                "submitted_at": "2025-12-23T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Arjun Sharma",
+                "submitted_at": "2026-02-09T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Meera Verma",
+                "submitted_at": "2025-05-12T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1011",
+        "faculy_name": "Dr. Vikram Sarabhai",
+        "total_rating": 73,
+        "avg_teaching": 4.5,
+        "avg_attendance_flex": 4.0,
+        "avg_supportiveness": 3.6,
+        "avg_marks": 4.6,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "CH101",
+                "title": "General Chemistry"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Aditya Gupta",
+                "submitted_at": "2025-10-16T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Kabir Sharma",
+                "submitted_at": "2025-07-20T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Kabir Kapoor",
+                "submitted_at": "2026-01-27T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Sanya Iyer",
+                "submitted_at": "2025-01-26T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Sanya Singh",
+                "submitted_at": "2025-10-02T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Meera Reddy",
+                "submitted_at": "2025-04-17T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1012",
+        "faculy_name": "Dr. APJ Abdul Kalam",
+        "total_rating": 215,
+        "avg_teaching": 4.2,
+        "avg_attendance_flex": 4.0,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 3.4,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Kabir Malhotra",
+                "submitted_at": "2025-12-01T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Ishani Kapoor",
+                "submitted_at": "2025-02-27T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Vikram Sharma",
+                "submitted_at": "2025-10-17T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Meera Joshi",
+                "submitted_at": "2025-09-27T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Deepa Malhotra",
+                "submitted_at": "2025-02-26T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Vikram Patel",
+                "submitted_at": "2025-06-06T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1013",
+        "faculy_name": "Prof. Jagadish Chandra Bose",
+        "total_rating": 149,
+        "avg_teaching": 4.9,
+        "avg_attendance_flex": 3.4,
+        "avg_supportiveness": 4.6,
+        "avg_marks": 3.6,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            },
+            {
+                "code": "CH101",
+                "title": "General Chemistry"
+            }
+        ],
+        "comments": [
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Ishani Kapoor",
+                "submitted_at": "2026-01-21T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Vikram Iyer",
+                "submitted_at": "2025-02-14T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Arjun Iyer",
+                "submitted_at": "2025-08-03T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Anjali Gupta",
+                "submitted_at": "2025-04-27T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1014",
+        "faculy_name": "Dr. Har Gobind Khorana",
+        "total_rating": 126,
+        "avg_teaching": 4.5,
+        "avg_attendance_flex": 3.5,
+        "avg_supportiveness": 4.2,
+        "avg_marks": 3.2,
+        "avg_overall": 3.8,
+        "courses": [
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Sanya Joshi",
+                "submitted_at": "2025-10-20T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Arjun Sharma",
+                "submitted_at": "2025-09-22T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Anjali Joshi",
+                "submitted_at": "2025-06-19T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Meera Malhotra",
+                "submitted_at": "2025-01-15T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Anjali Verma",
+                "submitted_at": "2025-03-05T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Rohan Iyer",
+                "submitted_at": "2025-11-22T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1015",
+        "faculy_name": "Dr. Venkatraman Ramakrishnan",
+        "total_rating": 169,
+        "avg_teaching": 4.6,
+        "avg_attendance_flex": 4.8,
+        "avg_supportiveness": 3.2,
+        "avg_marks": 3.6,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "CH101",
+                "title": "General Chemistry"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Arjun Verma",
+                "submitted_at": "2025-10-09T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Kabir Malhotra",
+                "submitted_at": "2025-04-17T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Arjun Patel",
+                "submitted_at": "2025-06-06T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Aditya Verma",
+                "submitted_at": "2025-08-19T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Anjali Reddy",
+                "submitted_at": "2025-12-07T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Sanya Joshi",
+                "submitted_at": "2025-10-01T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1016",
+        "faculy_name": "Prof. Ashoke Sen",
+        "total_rating": 99,
+        "avg_teaching": 4.2,
+        "avg_attendance_flex": 3.6,
+        "avg_supportiveness": 4.9,
+        "avg_marks": 4.4,
+        "avg_overall": 4.3,
+        "courses": [
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Meera Malhotra",
+                "submitted_at": "2025-01-17T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Aditya Singh",
+                "submitted_at": "2025-11-02T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Aditya Sharma",
+                "submitted_at": "2025-08-22T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1017",
+        "faculy_name": "Dr. Tessy Thomas",
+        "total_rating": 80,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 2.9,
+        "avg_supportiveness": 3.1,
+        "avg_marks": 3.0,
+        "avg_overall": 3.2,
+        "courses": [
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "CH101",
+                "title": "General Chemistry"
+            }
+        ],
+        "comments": [
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Aditya Kapoor",
+                "submitted_at": "2026-02-02T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Kabir Iyer",
+                "submitted_at": "2025-10-01T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Sanya Kapoor",
+                "submitted_at": "2026-01-06T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Ishani Malhotra",
+                "submitted_at": "2025-08-17T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1018",
+        "faculy_name": "Dr. Soumya Swaminathan",
+        "total_rating": 41,
+        "avg_teaching": 4.8,
+        "avg_attendance_flex": 3.1,
+        "avg_supportiveness": 4.1,
+        "avg_marks": 4.2,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            },
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Kabir Iyer",
+                "submitted_at": "2025-12-18T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Ishani Joshi",
+                "submitted_at": "2025-09-10T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Meera Verma",
+                "submitted_at": "2025-05-17T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Rohan Kapoor",
+                "submitted_at": "2025-11-27T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1019",
+        "faculy_name": "Prof. Manjul Bhargava",
+        "total_rating": 124,
+        "avg_teaching": 3.6,
+        "avg_attendance_flex": 4.2,
+        "avg_supportiveness": 3.6,
+        "avg_marks": 3.7,
+        "avg_overall": 3.8,
+        "courses": [
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Anjali Gupta",
+                "submitted_at": "2025-07-07T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Rohan Sharma",
+                "submitted_at": "2025-06-27T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Deepa Verma",
+                "submitted_at": "2025-07-31T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Meera Verma",
+                "submitted_at": "2026-01-30T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1020",
+        "faculy_name": "Dr. Shanti Swarup Bhatnagar",
+        "total_rating": 16,
+        "avg_teaching": 4.6,
+        "avg_attendance_flex": 4.6,
+        "avg_supportiveness": 3.8,
+        "avg_marks": 3.4,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            },
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Sanya Verma",
+                "submitted_at": "2026-01-19T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Deepa Verma",
+                "submitted_at": "2025-08-26T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Aditya Patel",
+                "submitted_at": "2025-10-17T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1021",
+        "faculy_name": "Dr. Meghnad Saha",
+        "total_rating": 177,
+        "avg_teaching": 4.9,
+        "avg_attendance_flex": 3.4,
+        "avg_supportiveness": 3.1,
+        "avg_marks": 4.6,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "PH202",
+                "title": "Quantum Mechanics"
+            },
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Arjun Malhotra",
+                "submitted_at": "2025-01-17T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Aditya Verma",
+                "submitted_at": "2025-11-26T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Kabir Kapoor",
+                "submitted_at": "2025-10-02T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Meera Joshi",
+                "submitted_at": "2025-01-31T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1022",
+        "faculy_name": "Prof. Prasanta Chandra Mahalanobis",
+        "total_rating": 184,
+        "avg_teaching": 3.7,
+        "avg_attendance_flex": 3.4,
+        "avg_supportiveness": 4.7,
+        "avg_marks": 3.5,
+        "avg_overall": 3.8,
+        "courses": [
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Deepa Iyer",
+                "submitted_at": "2025-04-20T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Ishani Malhotra",
+                "submitted_at": "2025-02-28T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Kabir Iyer",
+                "submitted_at": "2025-04-13T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Ishani Patel",
+                "submitted_at": "2026-01-23T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Meera Patel",
+                "submitted_at": "2025-05-18T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Ishani Gupta",
+                "submitted_at": "2025-10-11T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1023",
+        "faculy_name": "Dr. Birbal Sahni",
+        "total_rating": 52,
+        "avg_teaching": 4.3,
+        "avg_attendance_flex": 4.1,
+        "avg_supportiveness": 3.1,
+        "avg_marks": 4.1,
+        "avg_overall": 3.9,
+        "courses": [
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "EE101",
+                "title": "Circuit Theory"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Vikram Joshi",
+                "submitted_at": "2026-01-12T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Anjali Kapoor",
+                "submitted_at": "2025-08-07T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Ishani Iyer",
+                "submitted_at": "2025-05-26T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1024",
+        "faculy_name": "Dr. Salim Ali",
+        "total_rating": 200,
+        "avg_teaching": 4.7,
+        "avg_attendance_flex": 3.9,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 3.4,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Vikram Singh",
+                "submitted_at": "2025-02-06T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Vikram Kapoor",
+                "submitted_at": "2025-11-27T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Arjun Kapoor",
+                "submitted_at": "2025-01-17T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Kabir Reddy",
+                "submitted_at": "2025-07-02T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1025",
+        "faculy_name": "Prof. M.S. Swaminathan",
+        "total_rating": 27,
+        "avg_teaching": 3.7,
+        "avg_attendance_flex": 4.0,
+        "avg_supportiveness": 4.7,
+        "avg_marks": 3.6,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Sanya Singh",
+                "submitted_at": "2026-01-18T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Rohan Singh",
+                "submitted_at": "2025-04-04T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Arjun Joshi",
+                "submitted_at": "2026-01-12T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Arjun Joshi",
+                "submitted_at": "2025-02-22T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Ishani Malhotra",
+                "submitted_at": "2025-04-10T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1026",
+        "faculy_name": "Dr. Verghese Kurien",
+        "total_rating": 64,
+        "avg_teaching": 4.3,
+        "avg_attendance_flex": 5.0,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 3.6,
+        "avg_overall": 4.3,
+        "courses": [
+            {
+                "code": "PH202",
+                "title": "Quantum Mechanics"
+            },
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Anjali Gupta",
+                "submitted_at": "2025-11-30T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Meera Singh",
+                "submitted_at": "2025-03-19T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Aditya Reddy",
+                "submitted_at": "2025-05-01T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Arjun Kapoor",
+                "submitted_at": "2025-12-07T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1027",
+        "faculy_name": "Dr. E. Sreedharan",
+        "total_rating": 48,
+        "avg_teaching": 3.7,
+        "avg_attendance_flex": 5.0,
+        "avg_supportiveness": 4.5,
+        "avg_marks": 3.2,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "EE101",
+                "title": "Circuit Theory"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Deepa Iyer",
+                "submitted_at": "2025-08-08T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Arjun Singh",
+                "submitted_at": "2025-02-28T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Vikram Kapoor",
+                "submitted_at": "2025-06-24T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Sanya Kapoor",
+                "submitted_at": "2025-09-17T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Rohan Reddy",
+                "submitted_at": "2025-07-18T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Anjali Verma",
+                "submitted_at": "2025-04-26T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1028",
+        "faculy_name": "Prof. C.N.R. Rao",
+        "total_rating": 168,
+        "avg_teaching": 4.3,
+        "avg_attendance_flex": 3.5,
+        "avg_supportiveness": 5.0,
+        "avg_marks": 4.5,
+        "avg_overall": 4.3,
+        "courses": [
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Arjun Reddy",
+                "submitted_at": "2025-03-24T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Rohan Iyer",
+                "submitted_at": "2025-04-06T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Deepa Kapoor",
+                "submitted_at": "2026-01-02T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Sanya Gupta",
+                "submitted_at": "2025-12-20T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1029",
+        "faculy_name": "Dr. K. Radhakrishnan",
+        "total_rating": 171,
+        "avg_teaching": 4.8,
+        "avg_attendance_flex": 4.8,
+        "avg_supportiveness": 3.0,
+        "avg_marks": 4.1,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            }
+        ],
+        "comments": [
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Vikram Patel",
+                "submitted_at": "2025-11-29T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Rohan Joshi",
+                "submitted_at": "2026-01-12T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Meera Gupta",
+                "submitted_at": "2025-12-06T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1030",
+        "faculy_name": "Dr. G. Madhavan Nair",
+        "total_rating": 208,
+        "avg_teaching": 4.6,
+        "avg_attendance_flex": 4.2,
+        "avg_supportiveness": 3.6,
+        "avg_marks": 3.5,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Arjun Iyer",
+                "submitted_at": "2026-02-04T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Deepa Joshi",
+                "submitted_at": "2025-10-26T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Ishani Sharma",
+                "submitted_at": "2025-06-07T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1031",
+        "faculy_name": "Prof. U.R. Rao",
+        "total_rating": 181,
+        "avg_teaching": 4.0,
+        "avg_attendance_flex": 4.4,
+        "avg_supportiveness": 3.5,
+        "avg_marks": 3.8,
+        "avg_overall": 3.9,
+        "courses": [
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "PH202",
+                "title": "Quantum Mechanics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Anjali Malhotra",
+                "submitted_at": "2025-12-05T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Vikram Malhotra",
+                "submitted_at": "2025-02-27T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Ishani Patel",
+                "submitted_at": "2026-01-15T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Kabir Malhotra",
+                "submitted_at": "2025-01-25T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Ishani Joshi",
+                "submitted_at": "2025-12-22T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1032",
+        "faculy_name": "Dr. Anil Kakodkar",
+        "total_rating": 243,
+        "avg_teaching": 3.7,
+        "avg_attendance_flex": 3.1,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 3.2,
+        "avg_overall": 3.6,
+        "courses": [
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            },
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Kabir Singh",
+                "submitted_at": "2025-02-09T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Sanya Sharma",
+                "submitted_at": "2025-07-04T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Arjun Verma",
+                "submitted_at": "2025-07-22T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Deepa Verma",
+                "submitted_at": "2025-04-04T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Meera Patel",
+                "submitted_at": "2026-01-13T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Anjali Kapoor",
+                "submitted_at": "2025-11-04T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1033",
+        "faculy_name": "Dr. R. Chidambaram",
+        "total_rating": 154,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 3.3,
+        "avg_supportiveness": 4.5,
+        "avg_marks": 3.8,
+        "avg_overall": 3.9,
+        "courses": [
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Sanya Joshi",
+                "submitted_at": "2025-02-01T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Aditya Iyer",
+                "submitted_at": "2025-10-28T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Vikram Verma",
+                "submitted_at": "2025-08-26T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Ishani Patel",
+                "submitted_at": "2025-09-12T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1034",
+        "faculy_name": "Prof. M.G.K. Menon",
+        "total_rating": 49,
+        "avg_teaching": 4.3,
+        "avg_attendance_flex": 2.8,
+        "avg_supportiveness": 3.1,
+        "avg_marks": 3.6,
+        "avg_overall": 3.4,
+        "courses": [
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Deepa Joshi",
+                "submitted_at": "2025-10-22T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Meera Gupta",
+                "submitted_at": "2026-01-13T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Anjali Verma",
+                "submitted_at": "2025-09-09T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Meera Patel",
+                "submitted_at": "2025-05-21T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Sanya Verma",
+                "submitted_at": "2025-07-20T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Vikram Gupta",
+                "submitted_at": "2025-06-26T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1035",
+        "faculy_name": "Dr. Raja Ramanna",
+        "total_rating": 93,
+        "avg_teaching": 4.0,
+        "avg_attendance_flex": 4.4,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 3.9,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Vikram Singh",
+                "submitted_at": "2025-03-25T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Rohan Gupta",
+                "submitted_at": "2025-04-12T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Vikram Reddy",
+                "submitted_at": "2025-05-14T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Meera Patel",
+                "submitted_at": "2025-10-24T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1036",
+        "faculy_name": "Dr. Hasmukh Shah",
+        "total_rating": 183,
+        "avg_teaching": 4.4,
+        "avg_attendance_flex": 2.7,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 4.5,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            },
+            {
+                "code": "PH202",
+                "title": "Quantum Mechanics"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Rohan Sharma",
+                "submitted_at": "2025-01-29T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Aditya Reddy",
+                "submitted_at": "2025-12-11T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Anjali Malhotra",
+                "submitted_at": "2025-08-14T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Vikram Joshi",
+                "submitted_at": "2026-02-08T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Meera Malhotra",
+                "submitted_at": "2025-12-11T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1037",
+        "faculy_name": "Prof. Yash Pal",
+        "total_rating": 147,
+        "avg_teaching": 3.8,
+        "avg_attendance_flex": 3.0,
+        "avg_supportiveness": 4.1,
+        "avg_marks": 4.1,
+        "avg_overall": 3.7,
+        "courses": [
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Deepa Singh",
+                "submitted_at": "2025-03-26T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Sanya Verma",
+                "submitted_at": "2025-10-30T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Ishani Verma",
+                "submitted_at": "2025-07-19T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Sanya Gupta",
+                "submitted_at": "2025-03-28T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Arjun Verma",
+                "submitted_at": "2025-09-20T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1038",
+        "faculy_name": "Dr. Jayant Narlikar",
+        "total_rating": 117,
+        "avg_teaching": 3.6,
+        "avg_attendance_flex": 4.4,
+        "avg_supportiveness": 4.1,
+        "avg_marks": 4.4,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            },
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Arjun Iyer",
+                "submitted_at": "2025-02-08T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Deepa Joshi",
+                "submitted_at": "2025-03-23T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Vikram Kapoor",
+                "submitted_at": "2025-06-18T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1039",
+        "faculy_name": "Dr. V. Ramaswami",
+        "total_rating": 121,
+        "avg_teaching": 4.7,
+        "avg_attendance_flex": 3.1,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 4.7,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "PH202",
+                "title": "Quantum Mechanics"
+            },
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Aditya Singh",
+                "submitted_at": "2025-06-01T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Aditya Kapoor",
+                "submitted_at": "2026-02-13T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "PH202",
+                    "title": "Quantum Mechanics"
+                },
+                "student_name": "Rohan Sharma",
+                "submitted_at": "2025-10-21T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Kabir Kapoor",
+                "submitted_at": "2026-01-08T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1040",
+        "faculy_name": "Prof. K. VijayRaghavan",
+        "total_rating": 160,
+        "avg_teaching": 4.1,
+        "avg_attendance_flex": 3.5,
+        "avg_supportiveness": 3.8,
+        "avg_marks": 3.9,
+        "avg_overall": 3.8,
+        "courses": [
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            },
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            },
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Kabir Verma",
+                "submitted_at": "2025-05-28T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Kabir Verma",
+                "submitted_at": "2025-06-28T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Anjali Malhotra",
+                "submitted_at": "2026-01-19T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Rohan Gupta",
+                "submitted_at": "2026-01-07T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Ishani Kapoor",
+                "submitted_at": "2025-03-06T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Arjun Patel",
+                "submitted_at": "2025-05-19T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1041",
+        "faculy_name": "Dr. Gagandeep Kang",
+        "total_rating": 123,
+        "avg_teaching": 4.6,
+        "avg_attendance_flex": 4.1,
+        "avg_supportiveness": 4.7,
+        "avg_marks": 3.8,
+        "avg_overall": 4.3,
+        "courses": [
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Ishani Verma",
+                "submitted_at": "2025-11-14T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Ishani Kapoor",
+                "submitted_at": "2025-06-25T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Sanya Malhotra",
+                "submitted_at": "2026-01-29T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "MA101",
+                    "title": "Calculus I"
+                },
+                "student_name": "Anjali Joshi",
+                "submitted_at": "2025-01-30T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1042",
+        "faculy_name": "Dr. Priya Abraham",
+        "total_rating": 172,
+        "avg_teaching": 4.9,
+        "avg_attendance_flex": 4.9,
+        "avg_supportiveness": 4.7,
+        "avg_marks": 3.8,
+        "avg_overall": 4.6,
+        "courses": [
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            },
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Aditya Verma",
+                "submitted_at": "2025-09-26T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Sanya Joshi",
+                "submitted_at": "2025-03-31T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Aditya Patel",
+                "submitted_at": "2025-10-28T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1043",
+        "faculy_name": "Prof. Ritu Karidhal",
+        "total_rating": 52,
+        "avg_teaching": 4.4,
+        "avg_attendance_flex": 2.7,
+        "avg_supportiveness": 4.6,
+        "avg_marks": 4.8,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Rohan Reddy",
+                "submitted_at": "2025-04-04T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Sanya Malhotra",
+                "submitted_at": "2026-02-11T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Vikram Iyer",
+                "submitted_at": "2025-05-10T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Kabir Singh",
+                "submitted_at": "2025-12-07T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Deepa Malhotra",
+                "submitted_at": "2025-07-21T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1044",
+        "faculy_name": "Dr. Muthayya Vanitha",
+        "total_rating": 104,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 4.8,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 3.3,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "MA101",
+                "title": "Calculus I"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Meera Verma",
+                "submitted_at": "2025-07-27T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Kabir Joshi",
+                "submitted_at": "2025-11-22T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Meera Reddy",
+                "submitted_at": "2025-04-04T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Rohan Sharma",
+                "submitted_at": "2025-04-20T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Arjun Sharma",
+                "submitted_at": "2025-01-17T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1045",
+        "faculy_name": "Dr. Nandini Harinath",
+        "total_rating": 78,
+        "avg_teaching": 4.2,
+        "avg_attendance_flex": 2.8,
+        "avg_supportiveness": 3.8,
+        "avg_marks": 3.8,
+        "avg_overall": 3.7,
+        "courses": [
+            {
+                "code": "EE202",
+                "title": "Power Systems"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            }
+        ],
+        "comments": [
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Arjun Verma",
+                "submitted_at": "2025-11-09T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Deepa Malhotra",
+                "submitted_at": "2025-02-25T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Meera Patel",
+                "submitted_at": "2025-09-17T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Aditya Verma",
+                "submitted_at": "2025-04-02T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EE202",
+                    "title": "Power Systems"
+                },
+                "student_name": "Vikram Singh",
+                "submitted_at": "2025-02-10T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1046",
+        "faculy_name": "Prof. Anuradha TK",
+        "total_rating": 114,
+        "avg_teaching": 4.5,
+        "avg_attendance_flex": 4.5,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 3.6,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            },
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Vikram Gupta",
+                "submitted_at": "2025-03-14T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Sanya Reddy",
+                "submitted_at": "2025-08-18T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Deepa Gupta",
+                "submitted_at": "2025-12-28T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Ishani Verma",
+                "submitted_at": "2025-07-27T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Aditya Iyer",
+                "submitted_at": "2025-02-25T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Aditya Verma",
+                "submitted_at": "2026-02-14T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1047",
+        "faculy_name": "Dr. V.R. Lalithambika",
+        "total_rating": 18,
+        "avg_teaching": 4.4,
+        "avg_attendance_flex": 4.8,
+        "avg_supportiveness": 3.5,
+        "avg_marks": 4.0,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            },
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Deepa Gupta",
+                "submitted_at": "2025-05-08T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Vikram Sharma",
+                "submitted_at": "2025-02-11T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Sanya Sharma",
+                "submitted_at": "2025-04-14T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Anjali Iyer",
+                "submitted_at": "2025-02-18T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Kabir Gupta",
+                "submitted_at": "2026-01-27T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1048",
+        "faculy_name": "Dr. Minu J. Murthy",
+        "total_rating": 101,
+        "avg_teaching": 3.9,
+        "avg_attendance_flex": 4.5,
+        "avg_supportiveness": 3.0,
+        "avg_marks": 4.1,
+        "avg_overall": 3.9,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            },
+            {
+                "code": "MA203",
+                "title": "Linear Algebra"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Anjali Patel",
+                "submitted_at": "2025-12-08T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Sanya Verma",
+                "submitted_at": "2025-05-25T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Kabir Reddy",
+                "submitted_at": "2025-11-02T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "MA203",
+                    "title": "Linear Algebra"
+                },
+                "student_name": "Sanya Patel",
+                "submitted_at": "2025-10-19T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1049",
+        "faculy_name": "Prof. S. Somnath",
+        "total_rating": 182,
+        "avg_teaching": 4.9,
+        "avg_attendance_flex": 2.9,
+        "avg_supportiveness": 4.7,
+        "avg_marks": 3.5,
+        "avg_overall": 4.0,
+        "courses": [
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            },
+            {
+                "code": "EC202",
+                "title": "Microprocessors"
+            },
+            {
+                "code": "CS202",
+                "title": "Data Structures"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Arjun Reddy",
+                "submitted_at": "2025-03-19T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EC202",
+                    "title": "Microprocessors"
+                },
+                "student_name": "Sanya Malhotra",
+                "submitted_at": "2025-04-21T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Kabir Malhotra",
+                "submitted_at": "2025-10-12T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Rohan Malhotra",
+                "submitted_at": "2025-04-26T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Sanya Kapoor",
+                "submitted_at": "2025-05-31T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS202",
+                    "title": "Data Structures"
+                },
+                "student_name": "Aditya Kapoor",
+                "submitted_at": "2025-08-03T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1050",
+        "faculy_name": "Dr. P. Veeramuthuvel",
+        "total_rating": 133,
+        "avg_teaching": 4.8,
+        "avg_attendance_flex": 3.5,
+        "avg_supportiveness": 4.5,
+        "avg_marks": 4.2,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Meera Gupta",
+                "submitted_at": "2026-02-11T16:14:12Z"
+            },
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Aditya Sharma",
+                "submitted_at": "2025-11-21T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Aditya Reddy",
+                "submitted_at": "2025-07-10T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Arjun Kapoor",
+                "submitted_at": "2025-08-08T16:14:12Z"
+            },
+            {
+                "review": "Bit of a fast pace, but covers the syllabus well.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Vikram Sharma",
+                "submitted_at": "2025-05-02T16:14:12Z"
+            },
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Rohan Singh",
+                "submitted_at": "2025-03-19T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1051",
+        "faculy_name": "Dr. K. Sivan",
+        "total_rating": 85,
+        "avg_teaching": 5.0,
+        "avg_attendance_flex": 3.6,
+        "avg_supportiveness": 3.9,
+        "avg_marks": 3.8,
+        "avg_overall": 4.1,
+        "courses": [
+            {
+                "code": "CS303",
+                "title": "DBMS"
+            },
+            {
+                "code": "EE101",
+                "title": "Circuit Theory"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Kabir Sharma",
+                "submitted_at": "2025-01-23T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Sanya Sharma",
+                "submitted_at": "2025-07-05T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Anjali Gupta",
+                "submitted_at": "2025-12-28T16:14:12Z"
+            },
+            {
+                "review": "Always available for doubts, even after class.",
+                "course": {
+                    "code": "CS303",
+                    "title": "DBMS"
+                },
+                "student_name": "Sanya Iyer",
+                "submitted_at": "2025-10-04T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS101",
+                    "title": "Intro to Programming"
+                },
+                "student_name": "Arjun Gupta",
+                "submitted_at": "2025-12-24T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1052",
+        "faculy_name": "Prof. G. Satheesh Reddy",
+        "total_rating": 167,
+        "avg_teaching": 4.4,
+        "avg_attendance_flex": 4.8,
+        "avg_supportiveness": 4.0,
+        "avg_marks": 3.6,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "ME202",
+                "title": "Fluid Mechanics"
+            },
+            {
+                "code": "EE101",
+                "title": "Circuit Theory"
+            },
+            {
+                "code": "CS101",
+                "title": "Intro to Programming"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Meera Gupta",
+                "submitted_at": "2025-02-10T16:14:12Z"
+            },
+            {
+                "review": "The assignments were tough but very rewarding.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Anjali Iyer",
+                "submitted_at": "2025-10-24T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Aditya Malhotra",
+                "submitted_at": "2025-06-25T16:14:12Z"
+            },
+            {
+                "review": "The course material was challenging, but the faculty made it easy.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Arjun Gupta",
+                "submitted_at": "2025-05-21T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "ME202",
+                    "title": "Fluid Mechanics"
+                },
+                "student_name": "Deepa Singh",
+                "submitted_at": "2025-03-07T16:14:12Z"
+            },
+            {
+                "review": "A bit strict with attendance but marks fairly.",
+                "course": {
+                    "code": "EE101",
+                    "title": "Circuit Theory"
+                },
+                "student_name": "Rohan Iyer",
+                "submitted_at": "2025-06-23T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1053",
+        "faculy_name": "Dr. S. Christopher",
+        "total_rating": 210,
+        "avg_teaching": 4.6,
+        "avg_attendance_flex": 4.1,
+        "avg_supportiveness": 4.4,
+        "avg_marks": 3.5,
+        "avg_overall": 4.2,
+        "courses": [
+            {
+                "code": "EC101",
+                "title": "Digital Electronics"
+            },
+            {
+                "code": "CH101",
+                "title": "General Chemistry"
+            },
+            {
+                "code": "ME101",
+                "title": "Thermodynamics"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Gives great real-world examples in class.",
+                "course": {
+                    "code": "CH101",
+                    "title": "General Chemistry"
+                },
+                "student_name": "Rohan Malhotra",
+                "submitted_at": "2025-01-26T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "ME101",
+                    "title": "Thermodynamics"
+                },
+                "student_name": "Deepa Kapoor",
+                "submitted_at": "2025-06-25T16:14:12Z"
+            },
+            {
+                "review": "Very supportive during office hours. Highly recommend.",
+                "course": {
+                    "code": "EC101",
+                    "title": "Digital Electronics"
+                },
+                "student_name": "Aditya Sharma",
+                "submitted_at": "2025-03-14T16:14:12Z"
+            }
+        ]
+    },
+    {
+        "faculy_id": "FAC1054",
+        "faculy_name": "Dr. Avinash Chander",
+        "total_rating": 155,
+        "avg_teaching": 3.6,
+        "avg_attendance_flex": 3.5,
+        "avg_supportiveness": 3.7,
+        "avg_marks": 3.9,
+        "avg_overall": 3.7,
+        "courses": [
+            {
+                "code": "PH101",
+                "title": "General Physics"
+            },
+            {
+                "code": "CS404",
+                "title": "Artificial Intelligence"
+            }
+        ],
+        "comments": [
+            {
+                "review": "Hard grader, but you learn a lot.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Kabir Joshi",
+                "submitted_at": "2025-03-11T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Ishani Joshi",
+                "submitted_at": "2025-11-21T16:14:12Z"
+            },
+            {
+                "review": "Excellent teaching style, very clear concepts.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Aditya Iyer",
+                "submitted_at": "2025-02-10T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "CS404",
+                    "title": "Artificial Intelligence"
+                },
+                "student_name": "Arjun Malhotra",
+                "submitted_at": "2026-01-27T16:14:12Z"
+            },
+            {
+                "review": "One of the best professors I've ever had.",
+                "course": {
+                    "code": "PH101",
+                    "title": "General Physics"
+                },
+                "student_name": "Arjun Iyer",
+                "submitted_at": "2025-07-29T16:14:12Z"
+            }
+        ]
+    }
+]
