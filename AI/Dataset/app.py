@@ -14,6 +14,27 @@ def load_data():
 
 df = load_data()
 
+# Build course dictionary automatically
+course_dict = {}
+
+for courses in df["courses"]:
+    for course in courses:
+        course_dict[course["code"]] = course["title"]
+
+course_options = sorted(course_dict.items(), key=lambda x: x[1])
+
+selected_course = st.selectbox(
+    "Select Course",
+    ["All Courses"] + [f"{code} - {title}" for code, title in course_options]
+)
+
+if selected_course != "All Courses":
+    selected_code = selected_course.split(" - ")[0]
+
+    df = df[df["courses"].apply(
+        lambda course_list: any(course["code"] == selected_code for course in course_list)
+    )]
+
 # Derived features
 df["no_of_reviews"] = df["comments"].apply(len)
 df["confidence"] = df["no_of_reviews"] / df["no_of_reviews"].max()
